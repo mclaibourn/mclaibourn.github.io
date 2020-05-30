@@ -1,13 +1,27 @@
 ---
 title: "Michele Claibourn"
-  output:
+output: 
   html_document:
-    toc: true
+    css: style.css
+    toc: yes
     toc_depth: 2
     toc_float: true
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(tidyverse)
+library(magrittr)
+library(glue)
+library(googlesheets4)
+
+# Public website, public sheet
+googlesheets4::sheets_deauth()
+projects_data <- read_sheet("https://docs.google.com/spreadsheets/d/1DfStXhr78NvVlSF0oBs5XrwSeoZWMqjRI9EEVYHwHh4/edit?usp=sharing")
+
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
 
 ## About
 
@@ -26,9 +40,54 @@ In the last five years, my interests have taken a sharp turn towards using data 
 
 Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and harbor a dream of joining a home-grown bluegrass band! 
 
-## Projects
+## Community-Engaged Projects
 
-More about current and past projects
+```{r, results = 'asis'}
+projects_gathered <- projects_data %>% 
+  mutate(id = 1:n()) %>% 
+  mutate_all(~ifelse(. == "NA", NA, .)) %>% 
+  pivot_longer(
+     starts_with('description'),
+     names_to = 'description_num',
+     values_to = 'description',
+     values_drop_na = TRUE
+   ) %>% 
+  group_by(id) %>% 
+  mutate(description_bullets = paste0("<li>", description, "</li>", collapse = "\n") ) %>% 
+  ungroup() %>% 
+  filter(description_num == 'description_1') 
+github_icon <- "<i class='fa fa-github fa-lg' style='padding-right:5px' aria-hidden='true'></i>"
+link_icon <- "<i class='fa fa-home fa-lg' style='padding-left:5px' aria-hidden='true'></i>"
+projects_gathered %>% 
+  mutate(
+    github_link = ifelse(
+      is.na(github), 
+      "", 
+      glue("<a href='{github}'>{github_icon}</a>")
+    ),
+    main_link = glue("<a href='{link}'>{link_icon}</a>"),
+    all_links = glue("<p class='links'>{github_link} {main_link}</p>")
+  ) %>% 
+  glue_data(
+    "<div class='project-entry'>",
+      "<h3> <a href='{link}'>{title}</a> </h3>",
+      "<div class='photo_and_description'>",
+        "<img src='{photo}'>",
+        "<div class='description'>",
+          "<ul class='description-list'> {description_bullets} </ul>",
+          "{all_links}",
+        "</div>",
+      "</div>",
+    "</div>", 
+    "<hr>"
+  )
+```
+
+## Research Projects
+
+## Workshops and Instruction
+
+## Library Projects
 
 ## CV/Resume
 
