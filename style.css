@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Raleway');
+
+h1, h2, h3 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+
+.photo_and_description {
+  display: grid;
+  grid-template-columns: 3fr 5fr;
+  justify-content: center;	
+  grid-column-gap: 25px;
+}
+
+@media screen and (max-width: 500px) /* Mobile */ {
+  .photo_and_description {
+    display: grid;
+    grid-template-columns: 100%;
+    justify-content: center;	
+  }
+  
+  .photo_and_description img {
+    padding: 10px;
+  }
+}
+
+.links {
+  text-align: center;
+}
+
+
+#resumeButton {
+  border: 1px solid black;
+  border-radius: 11px;
+  text-align: center;
+  box-shadow: 1px 2px 4px #989da3;
+  cursor: pointer;
+}
+
+#contact {
+  margin-top: 75px;
+}
