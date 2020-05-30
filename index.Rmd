@@ -44,6 +44,7 @@ Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and
 
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
+  filter(category == "community") %>% 
   mutate(id = 1:n()) %>% 
   mutate_all(~ifelse(. == "NA", NA, .)) %>% 
   pivot_longer(
@@ -85,6 +86,47 @@ projects_gathered %>%
 
 ## Research Projects
 
+```{r, results = 'asis'}
+projects_gathered <- projects_data %>% 
+  filter(category == "research") %>% 
+  mutate(id = 1:n()) %>% 
+  mutate_all(~ifelse(. == "NA", NA, .)) %>% 
+  pivot_longer(
+     starts_with('description'),
+     names_to = 'description_num',
+     values_to = 'description',
+     values_drop_na = TRUE
+   ) %>% 
+  group_by(id) %>% 
+  mutate(description_bullets = paste0("<li>", description, "</li>", collapse = "\n") ) %>% 
+  ungroup() %>% 
+  filter(description_num == 'description_1') 
+github_icon <- "<i class='fa fa-github fa-lg' style='padding-right:5px' aria-hidden='true'></i>"
+link_icon <- "<i class='fa fa-home fa-lg' style='padding-left:5px' aria-hidden='true'></i>"
+projects_gathered %>% 
+  mutate(
+    github_link = ifelse(
+      is.na(github), 
+      "", 
+      glue("<a href='{github}'>{github_icon}</a>")
+    ),
+    main_link = glue("<a href='{link}'>{link_icon}</a>"),
+    all_links = glue("<p class='links'>{github_link} {main_link}</p>")
+  ) %>% 
+  glue_data(
+    "<div class='project-entry'>",
+      "<h3> <a href='{link}'>{title}</a> </h3>",
+      "<div class='photo_and_description'>",
+        "<img src='{photo}'>",
+        "<div class='description'>",
+          "<ul class='description-list'> {description_bullets} </ul>",
+          "{all_links}",
+        "</div>",
+      "</div>",
+    "</div>", 
+    "<hr>"
+  )
+```
 ## Workshops and Instruction
 
 ## Library Projects
