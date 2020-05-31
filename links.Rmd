@@ -1,0 +1,29 @@
+---
+title: "Links"
+output: 
+  html_document:
+    css: style.css
+    toc: yes
+    toc_depth: 2
+    toc_float: true
+---
+
+## Work-related 
+
+UVA | Media | Professional
+------------- | ------------- | -------------
+[UVa Library](http://www.lib.virginia.edu/)  | [New York Times](http://www.nytimes.com/) | [Chronicle](http://chronicle.com/)
+[RDS+SNE](http://data.library.virginia.edu/)  | [Washington Post](http://www.washingtonpost.com/) | [Inside Higher Ed](http://www.insidehighered.com/)
+[UVA Box](https://virginia.app.box.com/) | [Salon News](http://www.salon.com/) | [CRAN](http://cran.r-project.org/)
+[UVA Collab](https://collab.itc.virginia.edu/portal) | [Slate Magazine](http://www.slate.com/) | [PolMeth](http://polmeth.wustl.edu/)
+[UVA SIS](http://www.virginia.edu/sis/) | [Talking Points Memo](https://talkingpointsmemo.com/) | [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/)
+
+## Personal 
+
+Family | Useful | Inspiration
+------------- | ------------- | -------------
+[Paul Martin](https://batten.virginia.edu/people/paul-martin) |  [gmail](http://www.gmail.com/) | [slacktivist](http://www.patheos.com/blogs/slacktivist/)
+The pack (coming soon) | [amazon](http://www.amazon.com/) | [experimental theology](http://experimentaltheology.blogspot.com/)
+[St. P's](https://www.spmcuva.org/) | [lou's list](https://louslist.org/) | [mandozine](http://www.mandozine.com/)
+[St. P's FB](https://www.facebook.com/StPaulsMemorialChurch/) | ??? | [ArtistWorks](https://artistworks.com/)
+??? | ??? | [Mandolin cafe](https://www.mandolincafe.com/)
