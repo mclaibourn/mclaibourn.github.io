@@ -218,4 +218,9 @@ projects_gathered %>%
 
 ## CV/Resume
 
-Add resume version and full academic CV
+See a mostly complete CV
+
+* [html version](mpc_cv.html)
+* [pdf version](https://github.com/mclaibourn/mpc_cv/raw/master/mpc_cv.pdf)
+
+And a shorter resume (coming soon)
