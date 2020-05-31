@@ -25,20 +25,20 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 ## About
 
-I have been fortunate to engage in a wide variety of work -- as a political scientist and quantitative scholar teaching at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the Weldon Cooper Center for Public Service; as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating UVA's StatLab and envisioning and building out a Data Science Services team in the UVA Library. 
+I have been fortunate to engage in a wide variety of work -- as a political scientist and quantitative scholar teaching at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/) and envisioning and building out a Data Science Services team in the UVA Library. 
 
-I'm currently the Director of Research Data Services and the Social, Natural, and Engineering Sciences in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
+I'm currently the Director of [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
 
 And I've been grateful to find many generous and creative partners along the way who've invited me to be part of collaborative work. Current partners include:
 
-* Community Policy, Analytics, and Strategy Lab (CommPAS), co-directing a community-oriented research initiative with Paul Martin in the Batten School of Public Policy and the UVA StatLab,
-* Public Interest Data Lab, leading a curricular lab in the Batten School of Public Policy designed to provide data science experience to students oriented towards justice,
-* The Global Policy Center's Humanitarian Collaborative, working with David Leblang on on predictive analytics for humanitarian goals,
-* The Virginia Equity Center, partnering with Barbara Brown Wilson and the Democratization of Data Initiative to co-create a regional equity atlas with our community.
+* Community Policy, Analytics, and Strategy Lab ([CommPAS](https://commpas.batten.virginia.edu/)), co-directing a community-oriented research initiative with [Paul Martin](https://batten.virginia.edu/people/paul-martin) in the Batten School of Public Policy and the UVA StatLab,
+* [Public Interest Data Lab](https://datafordemocracy.github.io/public-interest-data-2020/), leading a curricular lab in the Batten School of Public Policy designed to provide data science experience to students oriented towards justice,
+* The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/), working with [David Leblang](https://batten.virginia.edu/people/david-leblang) on on predictive analytics for humanitarian goals,
+* The [Virginia Equity Center](http://virginiaequitycenter.org/), partnering with [Barbara Brown Wilson](https://www.arch.virginia.edu/people/barbara-wilson) and the Democratization of Data Initiative to co-create a regional equity atlas with our community.
 
 In the last five years, my interests have taken a sharp turn towards using data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building. More importantly, I hope I'm mentoring the amazing young people I get to work with at UVA to engage this work early in their careers.
 
-Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and harbor a dream of joining a home-grown bluegrass band! 
+Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and harbor a dream of joining a [home-grown bluegrass band](https://www.facebook.com/StPaulsMemorialChurch/videos/1351361454880067/)! 
 
 ## Community-Engaged Projects
 
