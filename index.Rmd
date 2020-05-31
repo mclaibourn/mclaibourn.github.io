@@ -36,7 +36,7 @@ And I've been grateful to find many generous and creative partners along the way
 * The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/), working with [David Leblang](https://batten.virginia.edu/people/david-leblang) on on predictive analytics for humanitarian goals,
 * The [Virginia Equity Center](http://virginiaequitycenter.org/), partnering with [Barbara Brown Wilson](https://www.arch.virginia.edu/people/barbara-wilson) and the Democratization of Data Initiative to co-create a regional equity atlas with our community.
 
-In the last five years, my interests have taken a sharp turn towards using data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building. More importantly, I hope I'm mentoring the amazing young people I get to work with at UVA to engage this work early in their careers.
+In the last five years, my interests have taken a sharp turn towards action-based research, using the tools of data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building -- a more action-based research agenda. More importantly, I hope I'm mentoring the amazing young people I get to work with at UVA to engage this work early in their careers.
 
 Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and harbor a dream of joining a [home-grown bluegrass band](https://www.facebook.com/StPaulsMemorialChurch/videos/1351361454880067/)! 
 
