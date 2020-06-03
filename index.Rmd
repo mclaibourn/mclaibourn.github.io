@@ -40,7 +40,17 @@ In the last five years, my interests have taken a sharp turn towards action-base
 
 Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and harbor a dream of joining a [home-grown bluegrass band](https://www.facebook.com/StPaulsMemorialChurch/videos/1351361454880067/)! 
 
+## CV/Resume
+
+See a mostly complete CV | And a brief resume 
+-------- | --------
+* [html version](mpc_cv.html) | * [html version](mpc_resume.html)
+* [pdf version](pdf/mpc_cv.pdf) | * [pdf version](pdf/mpc_resume.pdf)
+
+
 ## Community-Engaged Projects
+
+Some examples of recent community-oriented projects, done as part of our CommPAS Lab and/or in partnership with the Equity Center. 
 
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
@@ -86,6 +96,8 @@ projects_gathered %>%
 
 ## Research Projects
 
+More academically-oriented projects.
+
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
   filter(category == "research") %>% 
@@ -129,6 +141,8 @@ projects_gathered %>%
 ```
 
 ## Workshops and Instruction
+
+A few examples of workshops, instructional blog posts, and other projects and materials created as educational resources.
 
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
@@ -174,6 +188,8 @@ projects_gathered %>%
 
 ## Library Projects
 
+Projects done on behalf of library units and intiatives.
+
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
   filter(category == "library") %>% 
@@ -216,14 +232,3 @@ projects_gathered %>%
   )
 ```
 
-## CV/Resume
-
-See a mostly complete CV
-
-* [html version](mpc_cv.html)
-* [pdf version](pdf/mpc_cv.pdf)
-
-And a brief resume 
-
-* [html version](mpc_resume.html)
-* [pdf version](pdf/mpc_resume.pdf)

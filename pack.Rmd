@@ -1,0 +1,61 @@
+---
+title: "The Pack"
+output: 
+  html_document:
+  css: style.css
+toc: yes
+toc_depth: 2
+toc_float: true
+---
+  
+<div align="center">
+  __The members of the Claibourn-Martin Clan__
+  
+  Rest in Peace
+  
+  Emily, the sweetest scaredy-cat : September 1994-December 8, 2008 
+  Madison, the most lovable rogue: September 2000-September 1, 2010
+  Greta, the best dog in the world: December 15, 1996-January 16, 2013 
+  Charlie, the fierce but lovable hunter: September 1994-September 16, 2013
+  Leopold, the dog who loved us best: October 2011-September 27, 2017
+  
+  In gratitude for the joy you've given 
+</div>
+
+***
+
+<style>
+.col2 {
+columns: 2 200px; /* number of columns and width in pixels*/
+-webkit-columns: 2 200px; /* chrome, safari */
+-moz-columns: 2 200px; /* firefox */
+}
+</style>
+#### This section will have two columns
+<div class="col2">
+Mad Dog and Greta: the chaos twins
+PIC
+Greta was born December 1996 in Madison, WI, the child of a pure-bred lab and the neighborhood bad boy. Her birth-parents' tale is (I imagine) both tragic and familiar. And for reasons that I'm sure I can't fathom, she was the last of her litter to be adopted. (Seriously, look at that face!)
+PIC
+Mad Dog is an Okie, through and through. He was a little older when we adopted him in 2001 (we called the shelter ahead of time and told them we were looking for a female yellow lab mix puppy... he's yellow). Early on, Mad Dog was a thorn in everybody's side -- chased the poor cats, chewed up the couch cushions, shoes, books, and CDs. He's much reformed now -- and he's all about the love (well, chasing squirrels, sleeping on the couch, generally looking out for numero uno, and then the love).
+PIC
+Greta's the intruder-deterrent of the pack. When Jehovah's Witnesses, people seeking money, or the cops come to the door, I like to make sure Greta's right there with me. She's really a sweetheart, and in a clinch, she'd probably just hide behind us for protection from anything scary, but she's got a bad-ass bark and a really threatening, deep-throated growl. I kind of want to be like her. 
+PIC
+Mad-Dog's real name is Madison -- which leads people to believe he is a girl (though given the neutered state of all of the kids, I suppose they're all a little gender fluid). When we adopted him, we were pining for Madison, WI (really, the best place to live) and wondering what we had done in former lives to warrant exile to OK. But it was all to the good, because while there, we found the sweetest scoundrel. 
+PIC
+Greta's the well-schooled one -- after puppy-kindergarten she attended obedience I and II -- she finished second in her class and passed the AKC Canine Good Citizenship test (her certificate is displayed prominently, next to the doctoral degrees). She's the goody-goody in the family, and will obediently pose for silly pictures.
+PIC
+
+Charlie and Emily: the little vultures 
+PIC
+Both Charlie (technically, Charlotte) and Emily joined us in 1995, in Madison, WI after being dropped off at the pound by a family who used up the first year of their kittenhood and then abandoned them. Apparently the family had small children who terrorized the girls, and Emily has never fully recovered. She lives up to her namesake, in that she's neurotic and moody and generally lets Charlie do all of the talking. A year or so on kitty prozac helped a bit, but you could tell she missed the highs.
+PIC
+Charlie was always the outgoing and adventurous one. She can't do this anymore, but then again, I can't throw back the whiskey like I used to, either. She still goes ga-ga over the 'nip, though. Charlie is the designated cat spokesperson -- it is (apparently) her job to tell us when the food is low, when the cat window should be opened, when there are vermin in the house, and how long we will be shunned after taking the girls to the vet. 
+PIC
+Emily got shut in a box when we were packing to move from WI to OK (we found her after a day); Charlie was savvy enough not to get trapped. But there's nothing like upheaval to bring the girls together (that, and the smell of tuna). 
+PIC
+Charlie is not just the liaison to the bi-ped world, but is the bridge to the canine universe as well. Probably because she's a single-minded seeker of warmth, and the dogs are one of the warmest things around. 
+PIC
+Charlie is the intellectual. She's fascinated with the newspaper, whatever books I'm reading at the moment, and anything I happen to be doing on the computer. Like a sponge, that Charlie (and not only because she's a little squishy and moderately absorbent).
+PIC
+</div>
