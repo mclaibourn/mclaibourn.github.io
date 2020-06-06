@@ -2,8 +2,6 @@
 title: "Michele Claibourn"
 output:
   html_document:
-    includes:
-       in_header: myheader.html
     css: style.css
     toc: yes
     toc_depth: 2
