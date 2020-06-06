@@ -23,9 +23,9 @@ projects_data <- read_sheet("https://docs.google.com/spreadsheets/d/1DfStXhr78Nv
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-I have been fortunate to engage in a wide variety of work -- as a political scientist and quantitative scholar teaching at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/) and envisioning and building out a Data Science Services team in the UVA Library. 
+I am a research director – a senior data scientist, social scientist, community-engaged scholar, and senior administrator – with 20 years of experience teaching, leading, and managing research and data science teams. Recently I’ve been building and leading [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
 
-I'm currently the Director of [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
+I have been fortunate to engage in a wide variety of work -- as a political scientist and quantitative scholar teaching at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/). 
 
 And I've been grateful to find many generous and creative partners along the way who've invited me to be part of collaborative work. Current partners include:
 
@@ -34,7 +34,7 @@ And I've been grateful to find many generous and creative partners along the way
 * The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/), working with [David Leblang](https://batten.virginia.edu/people/david-leblang) on on predictive analytics for humanitarian goals,
 * The [Virginia Equity Center](http://virginiaequitycenter.org/), partnering with [Barbara Brown Wilson](https://www.arch.virginia.edu/people/barbara-wilson) and the Democratization of Data Initiative to co-create a regional equity atlas with our community.
 
-In the last five years, my interests have taken a sharp turn towards action-based research, using the tools of data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building -- a more action-based research agenda. More importantly, I hope I'm mentoring the amazing young people I get to work with at UVA to engage this work early in their careers.
+My own work has turned towards action-based research, using the tools of data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building -- a more action-based research agenda. More importantly, I hope I'm mentoring the amazing young people I get to work with at UVA to engage this work early in their careers.
 
 Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and harbor a dream of joining a [home-grown bluegrass band](https://www.facebook.com/StPaulsMemorialChurch/videos/1351361454880067/)! 
 
