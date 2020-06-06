@@ -1,7 +1,9 @@
 ---
 title: "Michele Claibourn"
-output: 
+output:
   html_document:
+    includes:
+       in_header: myheader.html
     css: style.css
     toc: yes
     toc_depth: 2
@@ -23,7 +25,7 @@ projects_data <- read_sheet("https://docs.google.com/spreadsheets/d/1DfStXhr78Nv
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-<meta name='google-site-verification' content='Bl7V9ToZ3Hfn6misjeF-7zKcK2qrpBY76p26xAE0dIg'>
+
 
 I am a research director – a senior data scientist, social scientist, community-engaged scholar, and senior administrator – with 20 years of experience teaching, leading, and managing research and data science teams. Recently I’ve been building and leading [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
 
