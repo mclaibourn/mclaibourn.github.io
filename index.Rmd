@@ -23,6 +23,8 @@ projects_data <- read_sheet("https://docs.google.com/spreadsheets/d/1DfStXhr78Nv
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
+<meta name='google-site-verification' content='Bl7V9ToZ3Hfn6misjeF-7zKcK2qrpBY76p26xAE0dIg'>
+
 I am a research director – a senior data scientist, social scientist, community-engaged scholar, and senior administrator – with 20 years of experience teaching, leading, and managing research and data science teams. Recently I’ve been building and leading [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
 
 I have been fortunate to engage in a wide variety of work -- as a political scientist and quantitative scholar teaching at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/). 
