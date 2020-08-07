@@ -32,11 +32,9 @@ meta() %>%
   meta_name("google-site-verification" = "Bl7V9ToZ3Hfn6misjeF-7zKcK2qrpBY76p26xAE0dIg")
 ```
 
+I am a researcher/research director – a senior data scientist, social scientist, community-engaged scholar, and administrator – with 20+ years of experience teaching, leading, and managing research and data science teams. Recently I’ve been building and leading [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
 
-
-I am a research director – a senior data scientist, social scientist, community-engaged scholar, and administrator – with 20+ years of experience teaching, leading, and managing research and data science teams. Recently I’ve been building and leading [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/) in the UVA Library, where I lead an amazing team of statistical and computational consultants, data curation and data discovery librarians, research software specialists, and subject librarians.
-
-I have been fortunate to engage in a wide variety of work -- as a political scientist professor and quantitative scholar at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/). 
+I have been fortunate to engage in a wide variety of work -- as a political science professor and quantitative scholar at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a researcher bridging applied and academic interests often with community partners; and as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/). 
 
 And I've been grateful to find many generous and creative partners along the way who've invited me to be part of collaborative work. Current partners include:
 
