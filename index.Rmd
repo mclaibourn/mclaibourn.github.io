@@ -6,6 +6,7 @@ output:
     toc: yes
     toc_depth: 2
     toc_float: true
+    theme: lumen
 ---
 
 ```{r setup, include=FALSE}
