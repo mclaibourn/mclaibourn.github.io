@@ -19,7 +19,7 @@ library(googlesheets4)
 library(metathis)
 
 # Public website, public sheet
-googlesheets4::sheets_deauth()
+googlesheets4::gs4_deauth()
 projects_data <- read_sheet("https://docs.google.com/spreadsheets/d/1DfStXhr78NvVlSF0oBs5XrwSeoZWMqjRI9EEVYHwHh4/edit?usp=sharing")
 
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
@@ -32,7 +32,7 @@ meta() %>%
   meta_name("google-site-verification" = "Bl7V9ToZ3Hfn6misjeF-7zKcK2qrpBY76p26xAE0dIg")
 ```
 
-I am a researcher/research director – social scientist, data scientist, community-engaged scholar, and administrator – with 20+ years of experience teaching, leading, and managing research and data science teams. 
+I am a research director – social scientist, data scientist, community-engaged scholar, and administrator – and faculty member with 20+ years of experience teaching, leading, and managing research and data science teams. 
 
 I work as the Director of Equitable Analysis in [The Equity Center](https://virginiaequitycenter.org) at the University of Virginia working with an amazing collection of scholars and practitioners, community experts, and students to create analysis and tools in support of a more just and equitable region. And I teach in the [Batten School of Leadership in Public Policy](https://batten.virginia.edu/), focusing on data ethics, public interest technology, and equitable policy.
 
