@@ -34,15 +34,16 @@ meta() %>%
 
 I am a research director – social scientist, data scientist, community-engaged scholar, and administrator – and faculty member with 20+ years of experience teaching, leading, and managing research and data science teams. 
 
-I work as the Director of Equitable Analysis in [The Equity Center](https://virginiaequitycenter.org) at the University of Virginia working with an amazing collection of scholars and practitioners, community experts, and students to create analysis and tools in support of a more just and equitable region. And I teach in the [Batten School of Leadership in Public Policy](https://batten.virginia.edu/), focusing on data ethics, public interest technology, and equitable policy.
+I work as the Director of Equitable Analysis in [The Equity Center](https://virginiaequitycenter.org) at the University of Virginia working with an amazing collection of scholars and practitioners, community experts, and students to create analysis and tools in support of a more just and equitable region. I also teach in the [Batten School of Leadership in Public Policy](https://batten.virginia.edu/), focusing on data ethics, public interest technology, and equitable policy.
 
 I have been fortunate to engage in a wide variety of work -- as a political science professor and quantitative scholar at the University of Oklahoma and the University of Virginia; as a data scientist engaged in applied work with the [Weldon Cooper Center for Public Service](https://demographics.coopercenter.org/); as a consultant and leader creating [UVA's StatLab](https://data.library.virginia.edu/statlab/); as a library director building [Research Data Services and the Social, Natural, and Engineering Sciences](https://data.library.virginia.edu/); and as a researcher bridging applied and academic interests with community partners and advocates. 
 
 And I've been grateful to find many generous and creative partners along the way who've invited me to be part of collaborative work. Current partners include:
 
-* Community Policy, Analytics, and Strategy Lab ([CommPAS](https://commpas.batten.virginia.edu/)), co-directing a community-oriented research initiative with [Paul Martin](https://batten.virginia.edu/people/paul-martin) in the Batten School of Public Policy and the UVA StatLab,
-* [Public Interest Data Lab](https://datafordemocracy.github.io/public-interest-data-2020/), leading a curricular lab in the Batten School of Public Policy designed to provide data science experience to students oriented towards justice,
-* The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/), working with [David Leblang](https://batten.virginia.edu/people/david-leblang) on on predictive analytics for humanitarian goals,
+* Community Policy, Analytics, and Strategy Lab ([CommPAS](https://commpas.batten.virginia.edu/)), co-directing a community-oriented research initiative with [Paul Martin](https://batten.virginia.edu/people/paul-martin) in the Batten School of Public Policy,
+* [UVA Legal Data Lab](https://legaldatalab.law.virginia.edu/), working to develop a platform to make anonymized court record data from the Virginia Judiciary more accessible for use by researchers and advocates,
+* The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/) at UVA, working with [David Leblang](https://batten.virginia.edu/people/david-leblang) on on predictive analytics for humanitarian goals,
+* [The RVA Eviction Lab](https://rampages.us/rvaevictionlab/) at VCU, building data tools to support activists and advocates fighting harmful evictions.
 
 My own work centers on action-based research, using the tools of data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building. More importantly, I hope I'm mentoring the incredible young people I get to work with at UVA to engage this work early in their careers.
 
@@ -104,7 +105,7 @@ projects_gathered %>%
 
 ## Research Projects
 
-More academically-oriented projects.
+More academically-oriented work
 
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
@@ -148,9 +149,9 @@ projects_gathered %>%
   )
 ```
 
-## Workshops and Instruction
+## Teaching and Instruction
 
-A few examples of workshops, instructional blog posts, and other projects and materials created as educational resources.
+Current courses and past workshops, instructional blog posts, and other projects and materials created as educational resources.
 
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
@@ -196,7 +197,7 @@ projects_gathered %>%
 
 ## Library Projects
 
-Projects done on behalf of library units and intiatives.
+Projects done on behalf of library units and initiatives.
 
 ```{r, results = 'asis'}
 projects_gathered <- projects_data %>% 
