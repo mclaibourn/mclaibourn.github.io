@@ -184,7 +184,7 @@ projects_gathered %>%
     "<div class='project-entry'>",
       "<h3> <a href='{link}'>{title}</a> </h3>",
       "<div class='photo_and_description'>",
-        "<img src='{photo}'>",
+        "<img src='{photo}' height='200'>",
         "<div class='description'>",
           "<ul class='description-list'> {description_bullets} </ul>",
           "{all_links}",
