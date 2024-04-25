@@ -40,11 +40,10 @@ I have been fortunate to engage in a wide variety of work -- as a political scie
 
 And I've been grateful to find many generous and creative partners along the way who've invited me to be part of collaborative work, including:
 
-* Community Policy, Analytics, and Strategy Lab ([CommPAS](https://commpas.batten.virginia.edu/)), co-directing a community-oriented research initiative with [Paul Martin](https://batten.virginia.edu/people/paul-martin) in the Batten School of Public Policy,
-* [UVA Legal Data Lab](https://legaldatalab.law.virginia.edu/), working to develop a platform to make anonymized court record data from the Virginia Judiciary more accessible for use by researchers and advocates,
-* The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/) at UVA, working on predictive analytics for humanitarian goals,
 * [The RVA Eviction Lab](https://rampages.us/rvaevictionlab/) at VCU, building data tools to support activists and advocates fighting harmful evictions.
 * [The Environmental Institute](https://environment.virginia.edu/) at UVA, working with an interdisciplinary team to translate science into data-rich decision support tools for the Eastern Shore of Virginia.
+* Community Policy, Analytics, and Strategy Lab ([CommPAS](https://commpas.batten.virginia.edu/)), co-directing a community-oriented research initiative with [Paul Martin](https://batten.virginia.edu/people/paul-martin) in the Batten School of Public Policy,
+* The Global Policy Center's [Humanitarian Collaborative](https://humanitariancollaborative.com/) at UVA, working on predictive analytics for humanitarian goals,
 
 My own work centers on action-based research, using the tools of data science to promote accountable governance, make visible racial and other social inequities, and impact public policy and movement building. More importantly, I hope I'm mentoring the incredible young people I get to work with at UVA to engage this work early in their careers.
 
@@ -52,10 +51,8 @@ Also, sometimes I play the mandolin, pretend I'm learning to play the banjo, and
 
 ## CV/Resume
 
-See a mostly complete CV | And a brief resume 
--------- | --------
-* [html version](mpc_cv.html) | * [html version](mpc_resume.html)
-* [pdf version](pdf/mpc_cv.pdf) | * [pdf version](pdf/mpc_resume.pdf)
+* See a mostly complete CV ([html version](mpc_cv.html)), ([pdf version](pdf/mpc_cv.pdf))
+* Or a briefer resume ([html version](mpc_resume.html)), ([pdf version](pdf/mpc_resume.pdf))
 
 
 ## Community-Engaged Projects
